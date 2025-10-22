@@ -42,3 +42,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/VVagner-dev/VVagner-dev/output/snake.svg" alt="Snake animation" />
+
+###
