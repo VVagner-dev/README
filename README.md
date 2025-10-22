@@ -42,5 +42,3 @@
 
 ###
 
-![Snake animation](https://github.com/VVagner-dev/VVagner-dev/blob/output/github-contribution-grid-snake.svg)
-
